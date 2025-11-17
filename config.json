@@ -1,0 +1,17 @@
+{
+  "server": {
+    "port": "3000",
+    "host": "0.0.0.0",
+    "allowOrigins": "*"
+  },
+  "project": {
+    "yukonPath": "../yukon",
+    "scenesPath": "src/scenes",
+    "assetsPath": "assets"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "format": "json"
+  }
+}
